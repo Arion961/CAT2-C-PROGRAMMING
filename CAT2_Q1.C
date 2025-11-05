@@ -1,3 +1,7 @@
+/*MARION MWIKALI MUTISYA 
+CT100/G/26273/25
+MATRIX
+*/
 include <stdio.h>
 int main(){
 int matrix [2][2];
